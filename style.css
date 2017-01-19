@@ -1,0 +1,24 @@
+img{
+    width: 500px;
+	max-width: 500px;
+}
+
+
+
+header h1{
+    text-align: center;
+    font-size: xx-large;
+}
+
+p{
+    width: 760px;
+    margin: auto;
+}
+
+body{
+    background: floralwhite;
+    height: 50px;
+    margin: auto;
+    width: 100%;
+
+}
